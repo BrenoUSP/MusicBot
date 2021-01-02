@@ -57,7 +57,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Java 8 or greater, Eclipse.
+Java 8 or greater, Eclipse IDE.
 
 ### Installation
 
@@ -65,7 +65,7 @@ Java 8 or greater, Eclipse.
    ```sh
    git clone https://github.com/brenoslivio/MusicBot.git
    ```
-2. Open the project with Eclipse, compiling the software. You can use other software, but the project is in a Eclipse IDE folder.
+2. Open the project with Eclipse, compiling the software. You can obviously compile directly, or with other IDE, but the project is in a Eclipse IDE folder.
 
 <!-- LICENSE -->
 ## License
